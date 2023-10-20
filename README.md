@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Organo</h1>
-  <img src="image/logo.svg">
+  <img src="public/imagens/logo.png">
   
 </div>
 <hr/>
